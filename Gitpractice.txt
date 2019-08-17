@@ -1,0 +1,12 @@
+
+git config --global user.name "sarvepallikumarraja"
+git config --global user.email sarvepallikumaaraja@gmail.com
+git clone https://github.com/sarvepallikumarraja/gitlearn.git
+
+
+Mster
+cd gitlearn/
+git add test.txt
+git commit -m "first commit" test.txt
+git push -u origin master
+
